@@ -1,0 +1,40 @@
+<svg id="shapes" xmlns="http://www.w3.org/2000/svg" width="14.219" height="460.38">
+  <defs>
+    <style>
+      .cls-1{fill:#333}.cls-1,.cls-3,.cls-4,.cls-5{fill-rule:evenodd}.cls-3{fill:#e0e0e0}.cls-4,.cls-5{fill:#ffc815}.cls-4{opacity:.3}
+    </style>
+  </defs>
+  <g id="down_icon" data-name="down icon">
+    <path id="Rounded_Rectangle_2_copy" data-name="Rounded Rectangle 2 copy" class="cls-1" d="M553.874 1899.75h7.1a1.78 1.78 0 0 1 1.776 1.78v7.12a1.78 1.78 0 0 1-1.776 1.78h-7.1a1.78 1.78 0 0 1-1.775-1.78v-7.12a1.78 1.78 0 0 1 1.775-1.78z" transform="translate(-549.969 -1450.06)"/>
+    <text id="down_icon-2" data-name="down icon" transform="matrix(.711 0 0 .712 4.224 458.659)" style="text-transform:uppercase" fill="#fff" font-family="FontAwesome" font-size="14">
+      
+    </text>
+  </g>
+  <path id="Rectangle_7_copy_4" data-name="Rectangle 7 copy 4" class="cls-3" d="M556.36 1859.91h1.421v39.84h-1.421v-39.84z" transform="translate(-549.969 -1450.06)"/>
+  <g id="round_shape_" data-name="round shape">
+    <path id="Ellipse_1_copy_4" data-name="Ellipse 1 copy 4" class="cls-4" d="M557.081 1848.52a7.115 7.115 0 1 1-7.114 7.12 7.119 7.119 0 0 1 7.114-7.12z" transform="translate(-549.969 -1450.06)"/>
+    <path class="cls-5" d="M557.07 1851.37a4.27 4.27 0 1 1-4.261 4.27 4.265 4.265 0 0 1 4.261-4.27z" transform="translate(-549.969 -1450.06)"/>
+  </g>
+  <path id="Rectangle_7_copy_3" data-name="Rectangle 7 copy 3" class="cls-3" d="M556.369 1743.22h1.424v108.15h-1.424v-108.15z" transform="translate(-549.969 -1450.06)"/>
+  <g id="round_shape_2" data-name="round shape" fill="#ffc815">
+    <circle id="Ellipse_1_copy_4-2" data-name="Ellipse 1 copy 4" cx="7.11" cy="288.89" r="7.109" opacity=".3"/>
+    <circle cx="7.11" cy="288.895" r="4.266"/>
+  </g>
+  <path id="Rectangle_7_copy_2" data-name="Rectangle 7 copy 2" class="cls-3" d="M556.369 1627.24h1.424v107.44h-1.424v-107.44z" transform="translate(-549.969 -1450.06)"/>
+  <g id="round_shape_3" data-name="round shape">
+    <path id="Ellipse_1_copy_4-3" data-name="Ellipse 1 copy 4" class="cls-4" d="M557.081 1616.57a7.115 7.115 0 1 1-7.114 7.11 7.111 7.111 0 0 1 7.114-7.11z" transform="translate(-549.969 -1450.06)"/>
+    <path class="cls-5" d="M557.07 1619.41a4.27 4.27 0 1 1-4.261 4.27 4.271 4.271 0 0 1 4.261-4.27z" transform="translate(-549.969 -1450.06)"/>
+  </g>
+  <path id="Rectangle_7_copy" data-name="Rectangle 7 copy" class="cls-3" d="M556.369 1509.84h1.424v107.44h-1.424v-107.44z" transform="translate(-549.969 -1450.06)"/>
+  <g id="round_shape" data-name="round shape">
+    <path id="Ellipse_1_copy_4-4" data-name="Ellipse 1 copy 4" class="cls-4" d="M557.081 1498.46a7.115 7.115 0 1 1-7.114 7.11 7.111 7.111 0 0 1 7.114-7.11z" transform="translate(-549.969 -1450.06)"/>
+    <path class="cls-5" d="M557.07 1501.3a4.27 4.27 0 1 1-4.261 4.27 4.265 4.265 0 0 1 4.261-4.27z" transform="translate(-549.969 -1450.06)"/>
+  </g>
+  <path class="cls-3" d="M556.369 1460.75h1.424v40.55h-1.424v-40.55z" transform="translate(-549.969 -1450.06)"/>
+  <g id="up_icon" data-name="up icon">
+    <path id="Rounded_Rectangle_2" data-name="Rounded Rectangle 2" class="cls-1" d="M554.078 1450.07h7.122a1.781 1.781 0 0 1 1.779 1.78v7.12a1.781 1.781 0 0 1-1.779 1.78h-7.118a1.781 1.781 0 0 1-1.779-1.78v-7.12a1.781 1.781 0 0 1 1.775-1.78z" transform="translate(-549.969 -1450.06)"/>
+    <text id="up_icon-2" data-name="up icon" transform="matrix(.712 0 0 .712 10.133 7.773)" font-size="11" text-anchor="end" fill="#fff" font-family="FontAwesome">
+      
+    </text>
+  </g>
+</svg>

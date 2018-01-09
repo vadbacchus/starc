@@ -1,0 +1,11 @@
+<svg id="right_nav_button" data-name="right nav button" xmlns="http://www.w3.org/2000/svg" width="25.62" height="19.219">
+  <defs>
+    <style>
+      .cls-x{fill:#ffc815;fill-rule:evenodd}
+    </style>
+  </defs>
+  <path class="cls-x" d="M1245.05 40.555h-21.34v2.135h21.34v-2.135z" transform="translate(-1219.44 -40.563)"/>
+  <path id="Rectangle_17_copy_2" data-name="Rectangle 17 copy 2" class="cls-x" d="M1245.05 51.94h-25.61v2.135h25.61V51.94z" transform="translate(-1219.44 -40.563)"/>
+  <path id="Rectangle_17_copy" data-name="Rectangle 17 copy" class="cls-x" d="M1245.05 46.248h-17.78v2.135h17.78v-2.135z" transform="translate(-1219.44 -40.563)"/>
+  <path id="Rectangle_17_copy_3" data-name="Rectangle 17 copy 3" class="cls-x" d="M1245.05 57.632h-17.78v2.135h17.78v-2.135z" transform="translate(-1219.44 -40.563)"/>
+</svg>
